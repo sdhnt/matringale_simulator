@@ -8,7 +8,7 @@ This program allows you to adjust your total fund amount, bet amount and total n
 
 You can also adjust probability of winning. (Default has been set to 46%)
 
-If you lose all your money it declares the lost amount, win probability and bet number at which yuo lost.
+If you lose all your money it declares the lost amount, win probability and bet number at which you lost.
 
 If you win it returns the total fund and rate of return for x number of bets.
 
